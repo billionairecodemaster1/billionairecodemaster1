@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billionairecodemaster1
-- 👀 I’m interested in creating  proof-of-stake utility coin backed by a underlying security token on a blockchain which can be used as a collateral.
+- 👀 I have an idea to create a proof-of-stake blockchain which operates a utility coin backed by a underlying security smart-contract/token that can be used as a medium of exchange and/or collateral between users on the network based on their D.O.B plus other key, external socio-economic factors as paramaters/variables/intrs or "whatever you guys call it 🤓 & embed it into the code.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for any support to collaborate and help establish my blockchain
+- 💞️ I’m looking for any support to collaborate and help establish my blockchain pls.
 - 📫 How to reach me - ryans.careers@gmail.com
 
 <!---
